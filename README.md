@@ -85,10 +85,4 @@ publish the result in your own repository:
 
 This ensures that the final `.jar` file will also be copied to your ImageJ
 plugins folder everytime you run the Maven Build
-# hello-world-command
-# hello-world-command
-# hello-world-command
-# hello-world-test
-# hello-world-test
-# hello-world-test
-# hello-world-test
+
